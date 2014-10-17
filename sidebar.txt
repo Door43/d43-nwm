@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nwm:home|Door43 (nwm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nwm|d43-nwm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nwm/archive/master.zip|d43-nwm.zip]]
+
+**Recent Changes**
+{{changes>ns = nwm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nwm|Ethnologue data]]
+
